@@ -14,7 +14,7 @@ const routes: Array<RouteConfig> = [
   ,{ 
     path: "/zhy",
     name: "zhy",
-    component: () => import("@/曾皓彦/Work1.vue")
+    component: () => import("@/zhy/Work1.vue")
   },
   //zenghaoyan
   {
